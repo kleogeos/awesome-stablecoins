@@ -71,6 +71,7 @@ Tools and platforms for using stablecoins in real-world transactions.
 - [BitPay](https://bitpay.com/) — Payment processor supporting stablecoin transactions and cards.
 - [MoonPay](https://www.moonpay.com/) — On-ramp and off-ramp infrastructure for fiat and crypto.
 - [Ramp](https://ramp.network/) — Payment infrastructure connecting fiat and stablecoins.
+- [usdt-rub-cli](https://github.com/kleogeos/usdt-rub-cli) — Open-source CLI that estimates RUB received for USDT via P2P, exchanger, or a custom spread, for freelancers converting stablecoin income to local currency.
 
 ## Analytics & Data
 
